@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Paraguanads, venezuelan Attorney at law and IT tech support.
-- 👀 I’m interested in cryptocurrencies, legal, forensics, photography and more
+- 👋 Hi, I’m @Paraguanads, venezuelan Attorney at law and IT tech support;
+- 👀 I’m interested in cryptocurrencies, legal, forensics, photography and more;
 - I'm @paraguanads on Twitter.
