@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliécer Hernández
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliécer Rafael Hernández Falcón
 =========================================================================================================================================
 
-I'm Attorney and IT Specialist
+I'm Attorney and Computer Specialist 
 ------------------------------
 
-* 🌍  I'm based in Punto Fijo, Venezuela
-* 🚀  I'm currently working on [DexKit](http://dexkit.com)
+* 🌍  I'm based in Punto Fijo, Venezuela 🇻🇪
+* 🚀  I'm currently working full-time at [DexKit](http://dexkit.com) & freelancing on weekends
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on crypto, open source, IT services
+* 🤝  I'm open to collaborating on crypto, OSINT, IT services & local legal affairs.
 * ⚡  Ping me for a CS2 match 🤠
 
 ### Skills
