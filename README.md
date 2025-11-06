@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliécer Rafael Hernández Falcón
 =========================================================================================================================================
 
-I'm Attorney and Computer Specialist 
+I'm Attorney, Developer and Computer Specialist 
 ------------------------------
 
-* 🌍  I'm based in Natal, Rio Grande doo Norte, 🇧🇷
+* 🌍  I'm based in Natal, Rio Grande do Norte, 🇧🇷
 * 🚀  I'm currently working at [DexKit](http://dexkit.com) & freelancing on weekends with my entrepreneurship [E1DIGITAL](https://e1digital.vercel.app) 
 * 🧠  I'm learning all about AI
 * 🤝  I'm open to collaborating on crypto, OSINT, IT services & legal affairs.
