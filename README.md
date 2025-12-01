@@ -5,9 +5,9 @@ I'm Attorney, Developer and Computer Specialist
 ------------------------------
 
 * 🌍  I'm based in Natal, Rio Grande do Norte, 🇧🇷
-* 🚀  I'm currently working at [DexKit](http://dexkit.com) & freelancing on weekends with my entrepreneurship [E1DIGITAL](https://e1digital.vercel.app) 
+* 🚀  I'm currently freelancing with my entrepreneurship [E1DIGITAL](https://e1digital.vercel.app) 
 * 🧠  I'm learning all about AI
-* 🤝  I'm open to collaborating on crypto, OSINT, IT services & legal affairs.
+* 🤝  I'm open to collaborating on crypto, OSINT, CyberSec, IT services & legal affairs.
 * ⚡  Ping me for a CS2 match 🤠
 
 ### Skills
